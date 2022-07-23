@@ -1,6 +1,6 @@
 ### Hi there I'm Ahmad AKA So8oS 👋
 
-- 🔭 currently working on LE KHALIL LE COOKIES  which is a website a my freinds cookie bussiness :3
+- 🔭 currently working on LE KHALIL LE COOKIES  which is a website a my freinds cookie bussiness, Stay tuned :3
 - 🌱 my main objective for these 2 months is to improve my skills and make a better portoflio :p   
 - 📫  You can contact me at [Ahmadothman033@gmail.com.](mailto:Ahmadothman033@gmail.com.)
 - ⚡ Fun fact: My nickname has no meaning and it is pronounced as "SokoS"
