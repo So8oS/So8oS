@@ -19,7 +19,7 @@
    <div>  
 
 ## Socials
-<<div align="center">  
+<div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"  height="50" /></a> <a href="https://www.linkedin.com/in/ahmad-othman-422117172/" target="_blank" rel="noreferrer">
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="50" /></a> <a href="https://www.instagram.com/don_so8os/" target="_blank" rel="noreferrer">
 <div>  
