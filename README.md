@@ -2,7 +2,7 @@
 
 - 🔭 currently working on LE KHALIL LE COOKIES (the name has a background story) which is a website a my freinds cookie bussiness, you will find details soon the projects Repo, Stay tuned :3
 - ## It still needs work but here is how it looks so far:
-<img src="https://github.com/So8oS/So8oS/blob/main/demo.gif" width="250" height="250"/>
+<img src="https://github.com/So8oS/So8oS/blob/main/demo.gif"/>
 
 - 🌱 my main objective for these 2 months is to improve my skills and make a better portoflio :p   
 - 📫  You can contact me at [Ahmadothman033@gmail.com.](mailto:Ahmadothman033@gmail.com.)
