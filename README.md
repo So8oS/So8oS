@@ -9,7 +9,7 @@
 - 📫  You can contact me at [Ahmadothman033@gmail.com.](mailto:Ahmadothman033@gmail.com.)
 - ⚡ Fun fact: My nickname has no meaning and it is pronounced as "SokoS"
 
-## What I use
+##
 <div align="center">  
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
