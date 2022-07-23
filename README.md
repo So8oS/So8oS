@@ -19,6 +19,8 @@
    <div>  
 
 ## Socials
+<div align="center">  
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmad-othman-422117172/" target="_blank" rel="noreferrer">
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/don_so8os/" target="_blank" rel="noreferrer">
+<div>
