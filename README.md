@@ -20,7 +20,7 @@
 
 ## Socials
 <div align="center">  
-<a href="https://www.linkedin.com/in/ahmad-othman-422117172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="" height="50"  /></a>
-<a href="https://www.instagram.com/don_so8os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="" height="50"  /></a>
+<a href="https://www.linkedin.com/in/ahmad-othman-422117172/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="" height="50"  /></a>
+<a href="https://www.instagram.com/don_so8os/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="" height="50"  /></a>
 
 <div>  
