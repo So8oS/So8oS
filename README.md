@@ -1,6 +1,6 @@
 ### Hi there I'm Ahmad AKA So8oS 👋
 
-- 🔭 currently working on LE KHALIL LE COOKIES (the name has a background story) which is a website a my freinds cookie bussiness, you will find details soon the projects Repo, Stay tuned :3
+- 🔭 currently working on [Le Khalil Le Cookies](https://github.com/So8oS/le_khalil_le_cookies-V2)(the name has a background story) which is a website a my freinds cookie bussiness, you will find details soon the projects Repo, Stay tuned :3
 ## It still needs work but here is how it looks so far:
 <img src="https://github.com/So8oS/So8oS/blob/main/demo.gif"/>
 
