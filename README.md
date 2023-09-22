@@ -79,16 +79,21 @@
 
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=So8oS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats
+<div align="center">
+  <a href="https://github.com/so8os?tab=repositories" target="_blank" align="left">
+      <img src="https://github-profile-trophy.vercel.app/?username=so8os&no-bg=true"/>
+   </a>
+</div>
 
 <br/>
 
 <div align="center" display="flex" flexDirection="row" flexWrap="nowrap" justifyContent="center" alignContent="center" alignItems="center">
-   <a href="http://www.github.com=So8oS">
-     <img height="170" src="https://github-readme-stats.vercel.app/api?username==So8oS&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="=So8oS's GitHub stats" />
+   <a href="http://www.github.com/so8os">
+     <img height="170" src="https://github-readme-stats.vercel.app/api?username=so8os&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="so8os's GitHub stats" />
    </a>
-    <a href="https://github.com/So8oS" align="left">
-     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&layout=compact&theme=onedark&hide_border=true&title_color=0891b2&icon_color=eec4899&text_color=3382ed&bg_color=1c1917&;Language&nbsp;Stats" />
+    <a href="https://github.com/so8os" align="left">
+     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=so8os&layout=compact&theme=onedark&hide_border=true&title_color=0891b2&icon_color=eec4899&text_color=3382ed&bg_color=1c1917&;Language&nbsp;Stats" />
    </a>
 </div> 
 
