@@ -24,7 +24,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="center" width="33%">
 
 
 
@@ -78,7 +78,6 @@
 
 
 
-## Github Stats
 ## Github Stats
 <div align="center">
   <a href="https://github.com/so8os?tab=repositories" target="_blank" align="left">
