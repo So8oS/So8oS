@@ -79,11 +79,7 @@
 
 
 ## Github Stats
-<div align="center">
-  <a href="https://github.com/So8oS?tab=repositories" target="_blank" align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=So8oS&no-bg=true"/>
-   </a>
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=So8oS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
