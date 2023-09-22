@@ -51,7 +51,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -77,30 +77,30 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=So8oS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+## Github Stats
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+  <a href="https://github.com/awadbilal?tab=repositories" target="_blank" align="left">
+      <img src="https://github-profile-trophy.vercel.app/?username=awadbilal&no-bg=true"/>
+   </a>
+</div>
+
+<br/>
+
+<div align="center" display="flex" flexDirection="row" flexWrap="nowrap" justifyContent="center" alignContent="center" alignItems="center">
+   <a href="http://www.github.com=So8oS">
+     <img height="170" src="https://github-readme-stats.vercel.app/api?username==So8oS&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="=So8oS's GitHub stats" />
+   </a>
+    <a href="https://github.com/awadbilal" align="left">
+     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&layout=compact&theme=onedark&hide_border=true&title_color=0891b2&icon_color=eec4899&text_color=3382ed&bg_color=1c1917&;Language&nbsp;Stats" />
+   </a>
+</div> 
+
   
 
 <br/>  
 
-<div align="center"></div>
-<br />
+  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>  
+
