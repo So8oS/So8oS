@@ -80,8 +80,8 @@
 
 ## Github Stats
 <div align="center">
-  <a href="https://github.com/awadbilal?tab=repositories" target="_blank" align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=awadbilal&no-bg=true"/>
+  <a href="https://github.com/So8oS?tab=repositories" target="_blank" align="left">
+      <img src="https://github-profile-trophy.vercel.app/?username=So8oS&no-bg=true"/>
    </a>
 </div>
 
@@ -91,7 +91,7 @@
    <a href="http://www.github.com=So8oS">
      <img height="170" src="https://github-readme-stats.vercel.app/api?username==So8oS&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="=So8oS's GitHub stats" />
    </a>
-    <a href="https://github.com/awadbilal" align="left">
+    <a href="https://github.com/So8oS" align="left">
      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&layout=compact&theme=onedark&hide_border=true&title_color=0891b2&icon_color=eec4899&text_color=3382ed&bg_color=1c1917&;Language&nbsp;Stats" />
    </a>
 </div> 
