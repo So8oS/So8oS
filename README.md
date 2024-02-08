@@ -7,13 +7,10 @@
 - 🌍  I'm Based in the UAE  
   
 
-- 🖥️  See my portfolio at [https://www.ahmadothman.com/](https://www.ahmadothman.com/)  
+- 🖥️  Check my portfolio at [https://www.ahmadothman.com/](https://www.ahmadothman.com/)  
   
 
 - ✉️  You can contact me at [Ahmadothman033@gmail.com.](mailto:Ahmadothman033@gmail.com.)  
-  
-
-- 🔭 I’m currently working on [Foodie](https://github.com/So8oS/foodie) 
   
 
 - ⚡ Fun fact: I am a superhero
